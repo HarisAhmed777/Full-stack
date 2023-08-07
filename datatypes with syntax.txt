@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+  int a= 12;
+  float b=1.2;
+  char c = 'c';
+  double d=1.23;
+  bool e = false;
+  cout << a << endl<<b<<endl<<c<<endl<<d<<endl<<e<<endl;
+}
